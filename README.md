@@ -48,11 +48,13 @@ The homelab focuses on collecting authentication logs, creating custom detection
 
 ### Wazuh Dashboard
 
-> Add screenshots of your dashboard here.
+> <img width="1898" height="916" alt="2026-06-28_00-19-07" src="https://github.com/user-attachments/assets/c029cdda-c398-4913-92e6-6265503e301d" />
+
 
 ### Security Alerts
 
-> Add screenshots of triggered alerts here.
+><img width="1887" height="893" alt="image" src="https://github.com/user-attachments/assets/8d59d021-c9ec-42c7-b324-dc31dfeb2b9f" />
+
 
 ---
 
